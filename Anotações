@@ -1,1 +1,24 @@
-adawda
+Comandos basicos do GIT;
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-WINDOWNS-|                                                       Vale lembrar que no Windowns, a tecla TAB é utilizada para auto preencher, sendo extremamente util     |    
+a|CD - Sobe um nivel ( cd.. volta um nivel )                        na hora de escrever Comandos grandes ou quando não tivermos certeza que está escrito corretamente.    |
+|DIR - Revela todos os diretorios da pasta onde estamos situados.                                                                                                         |
+|rmdir - Deleta diretorios                                                                                                                                                |
+|DEL - Delete arquivos                                                                                                                                                    |
+|cls - Limpar a tela                                                                                                                                                      |
+|echo - Repete o que foi escrito no terminal, por exemplo: -ECHO hello                                                                                                    | 
+|                                                          -hello                                                                                                         | 
+|                                                                                                                                                                         |                                                    
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-UNIX-                                                                                                                                                                   |                
+|cd - Sobe um nivel ( cd.. volta um nivel )                                                                                                                               |
+|ls - Revela todos os diretorios da pasta onde estamos situados.                                                                                                          |
+|mkdir - Deleta diretorios                                                                                                                                                |
+|Rm - Delete arquivos                                                                                                                                                     |
+|clear - Limpar a tela (CRTL + L)                                                                                                                                         |                                                                                                                                         |
+|echo - Repete o que foi escrito no terminal, por exemplo: -ECHO hello                                                                                                    | 
+|                                                          -hello                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
