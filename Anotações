@@ -20,5 +20,19 @@ a|CD - Sobe um nivel ( cd.. volta um nivel )                        na hora de e
 |echo - Repete o que foi escrito no terminal, por exemplo: -ECHO hello                                                                                                    | 
 |                                                          -hello                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+Entendendo como o GIT funciona por baixo dos panos                                                                                                                        | 
+SHA1 - A encriptação gera conjunto de characteres identificador de 40 dígitos.                                                                                            |
+  
+                                                                                                                                                                           |
+        |
+        |
+        |
+        |
+        |
+        |
+        | 
+        |
+        |
+        |
 
